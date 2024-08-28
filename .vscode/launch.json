@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "cs330assignment1_998fd586"
+        },
+        {
+            "type": "java",
+            "name": "MyMainClass",
+            "request": "launch",
+            "mainClass": "MyMainClass",
+            "projectName": "cs330assignment1_998fd586"
+        },
+        {
+            "type": "java",
+            "name": "Engine",
+            "request": "launch",
+            "mainClass": "Engine",
+            "projectName": "cs330assignment1_998fd586"
+        },
+        {
+            "type": "java",
+            "name": "Wheel",
+            "request": "launch",
+            "mainClass": "Wheel",
+            "projectName": "cs330assignment1_998fd586"
+        },
+        {
+            "type": "java",
+            "name": "Bicycle",
+            "request": "launch",
+            "mainClass": "Bicycle",
+            "projectName": "cs330assignment1_998fd586"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Car",
+            "projectName": "cs330assignment1_998fd586"
+        },
+        {
+            "type": "java",
+            "name": "CarClass",
+            "request": "launch",
+            "mainClass": "CarClass",
+            "projectName": "cs330assignment1_998fd586"
+        }
+    ]
+}
